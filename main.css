@@ -64,6 +64,10 @@ body {
     background-color: aqua;
 }
 
+.header__text a:active {
+    color: #000000;
+}
+
 .header__img{
     height: 100vh;
     margin: 0;
